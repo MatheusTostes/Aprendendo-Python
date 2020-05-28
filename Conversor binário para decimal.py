@@ -15,12 +15,12 @@ def check(string) :                                           # Define a funçã
             break 
         else :                                                ## Senão, passar
             bnr2 = list(bnr)                                  # Cria uma lista (para que futuramente possamos utilizar o método pop)
-            value = 0                                         # Sobrescreve o value partindo de 0
-
+            value = 0                                         # Define o value partindo de 0
+            
             for i in range(len(bnr)):                         # Varre os elementos do valor inserido, a partir de um range que tem como final o seu último elemento
                 digit = bnr2.pop()                            # Busca o último elemento da lista que criamos com o valor binário
                 if digit == '1':                              # Se o dígito for igual a 1 
-                    value = value + pow(2, i)                 ## Adiciona à variável value 2^i (sendo i o elemento 0 ou 1 atual sendo varrido) 
+                    value = value + pow(2, i)                 ## Adiciona à variável value 2^i (sendo i a posição do enésimo elemento da lista bnr sendo varrido) 
             print("O binário convertido em decimal é", value) # Exibe o resultado
             break
     
