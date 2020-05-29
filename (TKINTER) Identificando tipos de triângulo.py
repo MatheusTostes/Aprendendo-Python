@@ -1,4 +1,11 @@
-from tkinter import *                                                           # Importa tudo da biblioteca tkinter 
+# O objetivo aqui era criar uma interface grafica que pedisse 3 entradas, rodasse condições dizendo se esses 3 valores 
+# poderiam formar um triangulo, em caso afirmativo, devolver as classificações do triângulo e plotar uma representação 
+# do mesmo em escala reduzida.
+
+
+
+
+from tkinter import *                                                           # Importa tudo da biblioteca tkinter. 
 
 janela = Tk()                                                                   # Instancia o tkinter com a variável janela.
 janela.title("TIPO DE TRIÂNGULO")                                               # Renomeia o titulo janela.
@@ -98,7 +105,7 @@ lb7.grid(row=8, column=2)
 lb8.grid(row=9, column=2)
 lb9.grid(row=10, column=2)
 
-V1.grid(row=1, column=2)                                                         # Posiciona na grade as caixas de entrada
+V1.grid(row=1, column=2)                                                         # Posiciona na grade as caixas de entrada.
 V2.grid(row=2, column=2)
 V3.grid(row=3, column=2)
 
