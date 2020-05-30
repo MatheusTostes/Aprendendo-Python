@@ -10,15 +10,15 @@ print("5 = fahrenheit para kelvin")
 print("6 = kelvin para fahrenheit")
 
 
-ope = input("Conversão :")							# Entrada para o tipo de conversão.
+ope = input("Conversão :")					# Entrada para o tipo de conversão.
 
 temp = input("Digite a temperatura :" )				# Entrada para o valor da temperatura a ser convertida.
 
 
 def convert():
 
-    entradas = '1234567890.'						# Elementos de entrada possíveis para temperatura.
-    operadores = '123456'							# Elementos de entrada possíveis para os operadores.
+    entradas = '1234567890.'					# Elementos de entrada possíveis para temperatura.
+    operadores = '123456'					# Elementos de entrada possíveis para os operadores.
     
     if ope not in operadores:						# Checa se o operador está contido no dicionário operadores
         print("Número de operador inválido")		## senão, retorna erro.
