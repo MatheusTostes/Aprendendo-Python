@@ -21,7 +21,7 @@ def convert():
     operadores = '123456'					# Elementos de entrada possíveis para os operadores.
     
     if ope not in operadores:					# Checa se o operador está contido no dicionário operadores
-        print("Número de operador inválido")		    ## senão, retorna erro.
+        print("Número de operador inválido")		        ## senão, retorna erro.
     else:
         for i in temp:						# Se o operador o operador for válido, verifica se os valores inseridos
             if i not in entradas:				## estão no dicionário entradas, senão, retorna erro.
