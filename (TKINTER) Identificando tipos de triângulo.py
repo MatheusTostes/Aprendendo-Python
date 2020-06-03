@@ -2,7 +2,7 @@
 # poderiam formar um triangulo, em caso afirmativo, devolver as classificações do triângulo e plotar uma representação 
 # do mesmo em escala reduzida.
 
-
+# Resultado: https://i.imgur.com/5I6uX21.png
 
 
 from tkinter import *                                                           # Importa tudo da biblioteca tkinter. 
