@@ -1,5 +1,7 @@
 # O objetivo era criar uma calculadora com operações básicas e interface.
 
+# Resultado: https://i.imgur.com/277HGa4.png
+
 from tkinter import *
 
 class Calculadora:
