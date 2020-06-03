@@ -1,4 +1,5 @@
 # Entrada dos lados do triângulo a ser analisado
+# Resultado: https://i.imgur.com/5I6uX21.png
 
 a = int(input("Digite um valor para o lado A:"))
 b = int(input("Digite um valor para o lado B:"))
