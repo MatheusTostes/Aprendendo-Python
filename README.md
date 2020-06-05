@@ -1,6 +1,16 @@
 # Aprendendo-Python-2020
 Todos os arquivos estão comentados linha a linha.
 
+## Análise de recorrência dos números sorteados na Mega Sena 
+
+![alt text](https://i.imgur.com/mzh0lM7.png)
+
+
+## Análise de suicídios
+
+![alt text](https://i.imgur.com/dsmhaAu.png)
+
+
 ## Calculadora (TKINTER)
 
 ![alt text](https://i.imgur.com/277HGa4.png)
@@ -9,11 +19,6 @@ Todos os arquivos estão comentados linha a linha.
 ## Identificando triângulos (TKINTER)
 
 ![alt text](https://i.imgur.com/5I6uX21.png)
-
-
-## Análise de recorrência dos números sorteados na Mega Sena 
-
-![alt text](https://i.imgur.com/mzh0lM7.png)
 
 
 ## Conversor binário para decimal
@@ -26,6 +31,3 @@ Todos os arquivos estão comentados linha a linha.
 ![alt text](https://i.imgur.com/5Pq9VXn.png)
 
 
-## Análise de suicídios
-
-![alt text](https://i.imgur.com/dsmhaAu.png)
