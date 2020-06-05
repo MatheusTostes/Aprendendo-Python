@@ -26,4 +26,6 @@ Todos os arquivos estão comentados linha a linha.
 ![alt text](https://i.imgur.com/5Pq9VXn.png)
 
 
-## 
+## Análise de suicídios
+
+![alt text](https://i.imgur.com/dsmhaAu.png)
