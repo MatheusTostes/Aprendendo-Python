@@ -7,6 +7,11 @@ Todos os arquivos estão comentados, alguns linha a linha.
 ![alt text](https://i.imgur.com/7TrNDKF.png)
 
 
+## COVID prevendo estado final de pacientes, óbito ou recuperação 
+
+![alt text](https://i.imgur.com/g12zaqM.png)
+
+
 ## COVID prevendo evolução dos casos 
 
 ![alt text](https://i.imgur.com/66IMgVm.png)
