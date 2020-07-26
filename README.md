@@ -1,5 +1,11 @@
-# Aprendendo-Python-2020
-Todos os arquivos estão comentados linha a linha.
+# Projetos de estudo em python
+Todos os arquivos estão comentados, alguns linha a linha.
+
+
+## Condição socioeconômica de bairros 
+
+![alt text](https://prnt.sc/ton49n)
+
 
 ## Análise de recorrência dos números sorteados na Mega Sena 
 
