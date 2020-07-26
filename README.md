@@ -4,7 +4,7 @@ Todos os arquivos estão comentados, alguns linha a linha.
 
 ## Condição socioeconômica de bairros 
 
-![alt text](https://prnt.sc/ton49n)
+![alt text](https://i.imgur.com/7TrNDKF.png)
 
 
 ## Análise de recorrência dos números sorteados na Mega Sena 
