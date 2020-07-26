@@ -7,6 +7,11 @@ Todos os arquivos estão comentados, alguns linha a linha.
 ![alt text](https://i.imgur.com/7TrNDKF.png)
 
 
+## COVID prevendo evolução dos casos 
+
+![alt text](https://i.imgur.com/66IMgVm.png)
+
+
 ## Análise de recorrência dos números sorteados na Mega Sena 
 
 ![alt text](https://i.imgur.com/mzh0lM7.png)
